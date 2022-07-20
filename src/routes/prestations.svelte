@@ -7,7 +7,7 @@
 
   <!-- épilations femmes -->
 
-  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-[url('images/gold.webp')] rounded-box">
+  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
     <input type="checkbox" /> 
     <div class="collapse-title text-xl font-bold text-marieBlue">
       Épilations Femmes
@@ -68,7 +68,7 @@
 
 <!-- forfaits épilations femmes -->
 
-  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-[url('images/gold.webp')] rounded-box">
+  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
     <input type="checkbox" /> 
     <div class="collapse-title text-xl font-bold text-marieBlue">
       Forfaits &Eacute;pilations Femmes
@@ -132,7 +132,7 @@
 
 <!-- épilations hommes -->
 
-  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-[url('images/gold.webp')] rounded-box">
+  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
     <input type="checkbox" /> 
     <div class="collapse-title text-xl font-bold text-marieBlue">
       &Eacute;pilations Hommes
@@ -173,7 +173,7 @@
 
 <!-- forfaits épilations femmes -->
 
-  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-[url('images/gold.webp')] rounded-box">
+  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
     <input type="checkbox" /> 
     <div class="collapse-title text-xl font-bold text-marieBlue">
       Forfaits &Eacute;pilations Hommes
@@ -203,7 +203,7 @@
 
 <!-- forfaits épilations femmes -->
 
-  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-[url('images/gold.webp')] rounded-box">
+  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
     <input type="checkbox" /> 
     <div class="collapse-title text-xl font-bold text-marieBlue">
       Mise en Beauté

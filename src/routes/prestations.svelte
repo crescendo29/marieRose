@@ -248,7 +248,7 @@
 
 <!-- forfaits épilations femmes -->
 
-    <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-[url('images/gold.webp')] rounded-box">
+    <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
       <input type="checkbox" /> 
       <div class="collapse-title text-xl font-bold text-marieBlue">
         Beauté des Ongles

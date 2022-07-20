@@ -1,4 +1,4 @@
-<div class="navbar bg-[url('images/gold.webp')]">
+<div class="navbar bg-gold-texture">
   <div class="navbar-start">
     <div class="dropdown">
       <label tabindex="0" class="btn btn-ghost lg:hidden">

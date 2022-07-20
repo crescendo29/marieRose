@@ -9,6 +9,10 @@ module.exports = {
       xl: "1440px",
     },
     extend: {
+      backgroundImage: {
+        'hero-pattern': "url('/images/hero.webp')",
+        'gold-texture': "url('/images/gold.webp')",
+      },
       colors: {
         gold: "#ccac00",
         goldish: "#8c5b18ff",

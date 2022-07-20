@@ -4,11 +4,11 @@
 </svelte:head>
 
 
-<section id="hero" class="flex justify-center">
-  <img src="/images/hero.webp" class="relative bg-cover" alt="massage">
-  <div class="absolute bg-marieBlueLight border-x-4 border-goldish text-white flex flex-col p-6 rounded-full items-center mt-28 shadow-xl">
-    <h1>DOUCE &Eacute;VASION</h1>
-  <h2>Votre espace bien être à Quimperlé</h2>
+<section id="hero" class="flex justify-center lg:max-h-screen">
+  <img src="/images/hero.webp" class="relative bg-cover lg:object-cover" alt="massage">
+  <div class="absolute mt-36">
+    <a href="#" class="bg-[url('images/gold.webp')] border-x-4 border-goldish text-marieBlue text-xl font-bold tracking-widest flex flex-col p-6 rounded-full items-center mx-20 shadow-xl">Prendre Rendez-Vous</a>
+
   </div>
 </section>
 

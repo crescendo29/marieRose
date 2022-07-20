@@ -8,9 +8,9 @@
         <li><a href="/">Accueil</a></li>
         <li><a href="/prestations">Nos Prestations</a></li>
         <li><a href="/produits">Nos Produits</a></li>
-        <li><a href="/produits">Prendre Rendez-Vous</a></li>
-        <li><a href="/produits">Cartes Cadeaux</a></li>
-        <li><a href="/produits">Contact</a></li>
+        <li><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
+        <li><a href="/cartescadeaux">Cartes Cadeaux</a></li>
+        <li><a href="/infos">Infos Pratiques</a></li>
       </ul>
     </div>
     <div class="ml-4">
@@ -24,9 +24,9 @@
       <li><a href="/">Accueil</a></li>
         <li><a href="/prestations">Nos Prestations</a></li>
         <li><a href="/produits">Nos Produits</a></li>
-        <li><a href="/produits">Prendre Rendez-vous</a></li>
-        <li><a href="/produits">Cartes Cadeaux</a></li>
-        <li><a href="/produits">Contact</a></li>
+        <li><a href="https://www.planity.com/">Prendre Rendez-vous</a></li>
+        <li><a href="/cartescadeaux">Cartes Cadeaux</a></li>
+        <li><a href="/infos">Infos Pratiques</a></li>
     </ul>
   </div>
   <a href="/" class="navbar-end">

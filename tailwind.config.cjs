@@ -12,9 +12,10 @@ module.exports = {
       backgroundImage: {
         'hero-pattern': "url('/images/hero.webp')",
         'gold-texture': "url('/images/gold.webp')",
+        'velours-texture': "url('/images/velours.webp')",
       },
       colors: {
-        gold: "#ccac00",
+        gold: "rgb(204,172,0,100%)",
         goldish: "#8c5b18ff",
         marieBlue: "rgba(28,37,70,100%)",
         marieBlueLight: "rgba(28,37,70,70%)",

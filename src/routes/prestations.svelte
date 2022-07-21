@@ -6,11 +6,35 @@
     Épilations Epiloderm®
   </div>
   <div class="collapse-content"> 
-    <div class="bg-white p-6 rounded-box">
+    <div class="bg-marieBlue p-6 rounded-box">
       <h3 class="text-gold font-bold my-4 mx-2">Les épilations EPILODERM®</h3>
-      <p class="text-marieBlue font-bold"> La méthode EPILODERM® est associée aux cires 100 % d’origine végétales brevetées , ainsi qu’à des
+      <p class="text-grey-200 font-bold"> La méthode EPILODERM® est associée aux cires 100 % d’origine végétales brevetées , ainsi qu’à des
         soins pré et post épilatoires fabriqués en France . Cette technique permet une diminution progressive
         du système pileux , jusqu’à 6 semaines de confort et de liberté .</p>
+      <h4 class="font-bold my-4">LES ATOUTS DIFFERENCIANTS D'EPILODERM®</h4>
+      <ul>
+        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg> Un effet peeling immédiat</li>
+        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg> Une absence totale de poils sous peau</li>
+        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg> L'hygiène d'une cire et d'une spatule d'application à usage unique</li>
+      </ul>
+      <h4 class="font-bold my-4">LES AVANTAGES D’EPILODERM®</h4>
+      <ul>
+        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg> Le confort</li>
+        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg> La douceur</li>
+        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
+        </svg> Une diminution progressive et durable du système pileux</li>
+      </ul>
     </div>
     <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
       
@@ -322,22 +346,30 @@
 <!-- les soins du visage phytomer -->
 
     <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
-      <input type="checkbox" /> 
+      <input type="checkbox" />            
       <div class="collapse-title text-xl font-bold text-marieBlue">
         Les Soins du Visage Phytomer
       </div>
       <div class="collapse-content">
+        <p class="text-marieBlue font-bold bg-white p-6 rounded-box"> Pour vos soins , c'est une marque bretonne que j'ai sélectionné pour prendre soin de votre peau . Phytomer croit en la mer et en ses incroyables bienfaits pour révéler une peau belle et saine . Privilégiant des méthodes éco-responsables dans leurs propres laboratoires , chacun des produits et soins cabine offrent une expérience bien-être que j'aurai plaisir à vous faire découvrir.</p>
+
         <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
           <table class="w-full text-left text-white">
             <tbody>
               <tr class="bg-marieBlue">
-                <td class="p-2">Peau nette express soin nettoyage de peau <span class="text-xs ml-4">45 min</span></td>
+                <td class="p-2">
+                  <div class="">
+                    <p>Peau nette express</p>
+                    <p class="text-sm">Soin Nettoyage de Peau <span class="text-xs ml-4">45 min</span></p>
+                  </div>
+                </td>
                 <td>55€</td>
               </tr>
               <tr class="bg-marieBlueLighter">
                 <td class="p-2">
                 <div class="">
-                  Cyfolia soin repulpant éclat visage et contour des yeux <span class="text-xs ml-4">60 min</span> 
+                  <p> Cyfolia</p>
+                    <p class="text-sm">soin repulpant éclat visage et contour des yeux <span class="text-xs ml-4">60 min</span></p>
                 </div> 
                 <span class="text-gold">(Soin bio certifié ecocert)</span>
                 </td>
@@ -382,6 +414,16 @@
                           <td>75€</td>
                           <td>95€</td>
                         </tr>
+                        <tr class="bg-marieBlue">
+                          <td class="p-2">
+                            <div class="">
+                              <p>Acnipur</p>
+                              <p class="text-sm">Solution anti imperfections</p>
+                            </div>
+                          </td>
+                          <td>75€</td>
+                          <td>95€</td>
+                        </tr>
                       </tbody>
                     </table>
                     <p class="text-marieBlue font-bold">*Les soins 90min comprennent au choix :</p>
@@ -407,7 +449,7 @@
                       <thead>
                         <tr>
                           <th class="bg-marieBlueLighter"></th>
-                          <th class="bg-marieBlueLighter px-2">60min</th>
+                          <th class="bg-marieBlueLighter">60min</th>
                           <th class="bg-marieBlueLighter">90min*</th>
                         </tr>
                       </thead>
@@ -459,6 +501,8 @@
         Les Massages
       </div>
       <div class="collapse-content">
+        <p class="text-marieBlue font-bold bg-white p-6 rounded-box">  Plutôt apaisants ou énergisants, les massages ont de nombreuses vertus . Ils procurent un bien-être immédiat qui peut durer jusqu'à plusieurs jours . Ils permettent au corps de se délester du stress et des tensions musculaires .
+          Lâchez prise le temps d'une Douce Evasion</p>
         <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
           <table class="w-full text-left text-white">
             <tbody>
@@ -605,6 +649,7 @@
         Les Soins Corps Phytomer
       </div>
       <div class="collapse-content">
+        <p class="text-marieBlue font-bold bg-white p-6 rounded-box"> Pour vos soins , c'est une marque bretonne que j'ai sélectionné pour prendre soin de votre peau . Phytomer croit en la mer et en ses incroyables bienfaits pour révéler une peau belle et saine . Privilégiant des méthodes éco-responsables dans leurs propres laboratoires , chacun des produits et soins cabine offrent une expérience bien-être que j'aurai plaisir à vous faire découvrir.</p>
         <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
           <table class="w-full text-left text-white">
             <tbody>
@@ -748,9 +793,10 @@
     <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
       <input type="checkbox" /> 
       <div class="collapse-title text-xl font-bold text-marieBlue">
-        Les Soins Ciblés
+        Les Soins Ciblés Phytomer
       </div>
       <div class="collapse-content">
+        <p class="text-marieBlue font-bold bg-white p-6 rounded-box"> Pour vos soins , c'est une marque bretonne que j'ai sélectionné pour prendre soin de votre peau . Phytomer croit en la mer et en ses incroyables bienfaits pour révéler une peau belle et saine . Privilégiant des méthodes éco-responsables dans leurs propres laboratoires , chacun des produits et soins cabine offrent une expérience bien-être que j'aurai plaisir à vous faire découvrir.</p>
         <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
           <table class="w-full text-left text-white">
             <tbody>

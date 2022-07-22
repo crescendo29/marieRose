@@ -1,10 +1,10 @@
 <div class="navbar bg-gold-texture">
   <div class="navbar-start">
-    <div class="dropdown text-grey-200">
+    <div class="dropdown text-gray-200">
       <label tabindex="0" class="btn btn-ghost lg:hidden">
         <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="black"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" /></svg>
       </label>
-      <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-marieBlue font-bold rounded-box w-44">
+      <ul tabindex="0" class="text-gray-200 menu menu-compact dropdown-content mt-3 p-2 shadow bg-marieBlue font-bold rounded-box w-44">
         <li><a href="/">Accueil</a></li>
         <li><a href="/prestations">Nos Prestations</a></li>
         <li><a href="/produits">Nos Produits</a></li>

@@ -8,10 +8,10 @@
   <div class="collapse-content"> 
     <div class="bg-marieBlue p-6 rounded-box">
       <h3 class="text-gold font-bold my-4 mx-2">Les épilations EPILODERM®</h3>
-      <p class="text-grey-200 font-bold"> La méthode EPILODERM® est associée aux cires 100 % d’origine végétales brevetées , ainsi qu’à des
+      <p class="text-gray-200 font-bold"> La méthode EPILODERM® est associée aux cires 100 % d’origine végétales brevetées , ainsi qu’à des
         soins pré et post épilatoires fabriqués en France . Cette technique permet une diminution progressive
         du système pileux , jusqu’à 6 semaines de confort et de liberté .</p>
-      <h4 class="font-bold ml-2 my-2">LES ATOUTS DIFFERENCIANTS D'EPILODERM®</h4>
+      <h4 class="font-bold ml-2 my-2 text-gray-200">LES ATOUTS DIFFERENCIANTS D'EPILODERM®</h4>
       <ul>
         <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
@@ -23,7 +23,7 @@
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
         </svg><p class="text-sm">L'hygiène d'une cire et d'une spatule d'application à usage unique</p></li>
       </ul>
-      <h4 class="font-bold ml-2 my-2">LES AVANTAGES D’EPILODERM®</h4>
+      <h4 class="font-bold ml-2 my-2 text-gray-200">LES AVANTAGES D’EPILODERM®</h4>
       <ul>
         <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />

@@ -14,7 +14,7 @@
       </ul>
     </div>
     <div class="ml-4">
-      <h1 class="normal-case text-xl font-bold text-marieBlue">DOUCE &Eacute;VASION</h1>
+      <h1 class="normal-case font-bold text-marieBlue">DOUCE &Eacute;VASION</h1>
     <h3 class="text-marieBlueLight text-sm">INSTITUT BEAUT&Eacute; ET BIEN &Ecirc;TRE</h3>
     </div>
     

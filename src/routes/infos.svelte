@@ -8,12 +8,12 @@
       <p>horaires d’ouverture</p>
       <p>Lundi Mardi Jeudi Vendredi</p>
       <p>9h30 - 12h30 et 14h - 18h30</p>
-      <p>Rendez-Vous possible le midi sur demande uniquement</p>
+      <p class="text-center">Rendez-Vous possible le midi sur demande uniquement</p>
       <p>Samedi</p>
       <p>9h00 - 15h00</p>
       <p>Fermé les mercredis et dimanches</p>
       <div class="card-actions justify-end">
-        <a href="https://www.planity.com/" class="bg-marieBlue border-x-4 border-goldish text-white text-xl font-bold tracking-widest  p-6 rounded-full shadow-xl hover:bg-gold-texture hover:text-marieBlue hover:scale-105">Prendre Rendez-Vous</a>
+        <a href="https://www.planity.com/" class="bg-marieBlue border-x-4 border-goldish text-white font-bold tracking-widest p-4 rounded-full shadow-xl hover:bg-gold-texture hover:text-marieBlue hover:scale-105">Prendre Rendez-Vous</a>
       </div>
     </div>
   </div>

@@ -9,12 +9,12 @@
         <li><a href="/prestations">Nos Prestations</a></li>
         <li><a href="/produits">Nos Produits</a></li>
         <li><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
-        <li><a href="/cartescadeaux">Cartes Cadeaux</a></li>
+        <li><a href="/espacecadeaux">Espace Cadeaux</a></li>
         <li><a href="/infos">Infos Pratiques</a></li>
       </ul>
     </div>
     <div class="ml-4">
-      <h1 class="normal-case font-bold text-sm text-marieBlue">DOUCE &Eacute;VASION</h1>
+      <h1 class="normal-case font-bold text-xs text-marieBlue">DOUCE &Eacute;VASION</h1>
     <h3 class="text-marieBlueLight text-sm">INSTITUT BEAUT&Eacute; ET BIEN &Ecirc;TRE</h3>
     </div>
     
@@ -25,7 +25,7 @@
         <li><a href="/prestations">Nos Prestations</a></li>
         <li><a href="/produits">Nos Produits</a></li>
         <li><a href="https://www.planity.com/">Prendre Rendez-vous</a></li>
-        <li><a href="/cartescadeaux">Cartes Cadeaux</a></li>
+        <li><a href="/espacecadeaux">Espace Cadeaux</a></li>
         <li><a href="/infos">Infos Pratiques</a></li>
     </ul>
   </div>

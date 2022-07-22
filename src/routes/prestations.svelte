@@ -11,29 +11,29 @@
       <p class="text-grey-200 font-bold"> La méthode EPILODERM® est associée aux cires 100 % d’origine végétales brevetées , ainsi qu’à des
         soins pré et post épilatoires fabriqués en France . Cette technique permet une diminution progressive
         du système pileux , jusqu’à 6 semaines de confort et de liberté .</p>
-      <h4 class="font-bold my-4">LES ATOUTS DIFFERENCIANTS D'EPILODERM®</h4>
+      <h4 class="font-bold ml-2 my-2">LES ATOUTS DIFFERENCIANTS D'EPILODERM®</h4>
       <ul>
-        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+        <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg> Un effet peeling immédiat</li>
-        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+        </svg><p class="text-sm">Un effet peeling immédiat</p></li>
+        <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg> Une absence totale de poils sous peau</li>
-        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+        </svg><p class="text-sm">Une absence totale de poils sous peau</p></li>
+        <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg> L'hygiène d'une cire et d'une spatule d'application à usage unique</li>
+        </svg><p class="text-sm">L'hygiène d'une cire et d'une spatule d'application à usage unique</p></li>
       </ul>
-      <h4 class="font-bold my-4">LES AVANTAGES D’EPILODERM®</h4>
+      <h4 class="font-bold ml-2 my-2">LES AVANTAGES D’EPILODERM®</h4>
       <ul>
-        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+        <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg> Le confort</li>
-        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+        </svg><p class="text-sm">Le confort</p></li>
+        <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg> La douceur</li>
-        <li class="text-white pl-6 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mx-3" viewBox="0 0 20 20" fill="currentColor">
+        </svg><p class="text-sm">La douceur</p></li>
+        <li class="text-white pl-1 flex"><svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mx-1" viewBox="0 0 20 20" fill="currentColor">
           <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-        </svg> Une diminution progressive et durable du système pileux</li>
+        </svg><p class="text-sm">Une diminution progressive et durable du système pileux</p></li>
       </ul>
     </div>
     <div class="overflow-x-auto relative shadow-md sm:rounded-lg">

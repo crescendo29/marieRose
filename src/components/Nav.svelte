@@ -44,8 +44,13 @@
 </script>
 
 <div class="fixed w-full h-[80px] flex justify-between items-center px-4 bg-gold-texture text-marieBlue">
-  <div>
+  <div class="flex items-center">
     <img src="images/logo1.webp" class="w-[70px]" alt="logo">
+    <div class="pl-4">
+      <h1 class="normal-case font-bold text-xs text-marieBlue">DOUCE &Eacute;VASION</h1>
+    <h3 class="text-marieBlueLight text-sm">INSTITUT BEAUT&Eacute; ET BIEN &Ecirc;TRE</h3>
+    </div>
+    
   </div>
 
   <!-- menu -->

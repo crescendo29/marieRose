@@ -4,6 +4,6 @@
 </script>
 
 <section>
-<Nav />
+  <Nav />
 	<slot />
 </section>

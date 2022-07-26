@@ -17,6 +17,7 @@ module.exports = {
         'gold-texture': "url('/images/gold.webp')",
         'velours-texture': "url('/images/velours.webp')",
         'aurora-texture': "url('/images/aurora.webp')",
+        'hero-img': "url('/images/hero.webp')",
       },
       colors: {
         gold: "rgb(204,172,0,100%)",

@@ -54,13 +54,13 @@
   </div>
 
   <!-- menu -->
-  <ul class="hidden md:flex">
-        <li><a href="/">Accueil</a></li>
-        <li><a href="/prestations">Nos Prestations</a></li>
-        <li><a href="/produits">Nos Produits</a></li>
-        <li><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
-        <li><a href="/espacecadeaux">Espace Cadeaux</a></li>
-        <li><a href="/infos">Infos Pratiques</a></li>
+  <ul class="hidden md:flex font-bold">
+        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/">Accueil</a></li>
+        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/prestations">Nos Prestations</a></li>
+        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/produits">Nos Produits</a></li>
+        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
+        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/espacecadeaux">Espace Cadeaux</a></li>
+        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/infos">Infos Pratiques</a></li>
   </ul>
 
   <!-- Hamburger -->

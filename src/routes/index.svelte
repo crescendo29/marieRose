@@ -5,7 +5,7 @@
 
 
 <section id="hero" class="flex justify-center lg:max-h-screen">
-  <img src="/images/hero.webp" class="relative bg-cover lg:object-cover" alt="massage">
+  <img src="/images/hero.webp" class="bg-cover lg:object-cover" alt="massage">
   <div class="absolute mt-36">
     <a href="https://www.planity.com/" class="bg-gold-texture border-x-4 border-goldish text-marieBlue flex flex-col items-center font-bold tracking-widest p-6 rounded-full mx-20 shadow-xl hover:scale-105">Prendre Rendez-Vous</a>
 

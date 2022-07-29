@@ -14,10 +14,11 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero-pattern': "url('/images/hero.webp')",
-        'gold-texture': "url('/images/gold.webp')",
+        'gold-texture2': "url('/images/gold.webp')",
         'velours-texture': "url('/images/velours.webp')",
         'aurora-texture': "url('/images/aurora.webp')",
         'hero-img': "url('/images/hero.webp')",
+        'gold-texture': "url('/images/or.jpg')"
       },
       colors: {
         gold: "rgb(204,172,0,100%)",

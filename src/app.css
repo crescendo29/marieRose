@@ -4,8 +4,11 @@
 
 @layer base {
   html {
+    @apply bg-marieBlue !important;
     font-family: Jost, system-ui, sans-serif;
+    
   }
+
   li {
     @apply p-4 ;
     @apply cursor-pointer;

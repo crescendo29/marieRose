@@ -1,4 +1,5 @@
-<div class="absolute w-full bg-marieBlue top-36 h-full flex items-center justify-center">
+
+<div class="relative top-[80px] pt-4 w-full bg-marieBlue h-full flex items-center justify-center">
 
    <div class="grid grid-cols-1 gap-4 md:max-w-[1000px]">
 
@@ -38,7 +39,7 @@
             </svg><p class="text-sm">Une diminution progressive et durable du système pileux</p></li>
           </ul>
         </div>
-        <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+        <div class="overflow-x-auto relative shadow-md rounded-lg">
           
             <!-- épilations femmes -->
     
@@ -48,7 +49,7 @@
                 Épilations Femmes EPILODERM®
               </div>
               <div class="collapse-content"> 
-                <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                <div class="overflow-x-auto relative shadow-md rounded-lg">
                   <table class="w-full text-left text-white">
                     <tbody>
                       <tr class="bg-marieBlue">
@@ -109,7 +110,7 @@
                 Forfaits &Eacute;pilations Femmes EPILODERM®
               </div>
               <div class="collapse-content">
-                <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                <div class="overflow-x-auto relative shadow-md rounded-lg">
                   <table class="w-full text-left text-white">
                     <tbody>
                       <tr class="bg-marieBlue">
@@ -173,7 +174,7 @@
                 &Eacute;pilations Hommes EPILODERM®
               </div>
               <div class="collapse-content"> 
-                <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                <div class="overflow-x-auto relative shadow-md rounded-lg">
                   <table class="w-full text-left text-white">
                     <tbody>
                       <tr class="bg-marieBlue">
@@ -214,7 +215,7 @@
                 Forfaits &Eacute;pilations Hommes EPILODERM®
               </div>
               <div class="collapse-content">
-                <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                <div class="overflow-x-auto relative shadow-md rounded-lg">
                   <table class="w-full text-left text-white">
                     <tbody>
                       <tr class="bg-marieBlue">
@@ -250,7 +251,7 @@
           Mise en Beauté
         </div>
         <div class="collapse-content">
-          <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+          <div class="overflow-x-auto relative shadow-md rounded-lg">
             <table class="w-full text-left text-white">
               <tbody>
                 <tr class="bg-marieBlue">
@@ -295,7 +296,7 @@
             Beauté des Ongles
           </div>
           <div class="collapse-content">
-            <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+            <div class="overflow-x-auto relative shadow-md rounded-lg">
               <table class="w-full text-left text-white">
                 <tbody>
                   <tr class="bg-marieBlue">
@@ -355,7 +356,7 @@
           <div class="collapse-content">
             <p class="text-marieBlue font-bold bg-white p-6 rounded-box"> Pour vos soins , c'est une marque bretonne que j'ai sélectionné pour prendre soin de votre peau . Phytomer croit en la mer et en ses incroyables bienfaits pour révéler une peau belle et saine . Privilégiant des méthodes éco-responsables dans leurs propres laboratoires , chacun des produits et soins cabine offrent une expérience bien-être que j'aurai plaisir à vous faire découvrir.</p>
     
-            <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+            <div class="overflow-x-auto relative shadow-md rounded-lg">
               <table class="w-full text-left text-white">
                 <tbody>
                   <tr class="bg-marieBlue">
@@ -385,7 +386,7 @@
                     <div class="collapse-content">
                       <p class="text-marieBlue">Le soin sera déterminé ensemble après votre diagnostic de peau en cabine.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -445,7 +446,7 @@
                     <div class="collapse-content">
                       <p class="text-marieBlue">Le soin sera déterminé ensemble après votre diagnostic de peau en cabine.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -505,7 +506,7 @@
           <div class="collapse-content">
             <p class="text-marieBlue font-bold bg-white p-6 rounded-box">  Plutôt apaisants ou énergisants, les massages ont de nombreuses vertus . Ils procurent un bien-être immédiat qui peut durer jusqu'à plusieurs jours . Ils permettent au corps de se délester du stress et des tensions musculaires .
               Lâchez prise le temps d'une Douce Evasion</p>
-            <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+            <div class="overflow-x-auto relative shadow-md rounded-lg">
               <table class="w-full text-left text-white">
                 <tbody>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
@@ -517,7 +518,7 @@
                       <p class="text-marieBlue">Les pierres volcaniques diffusent leur chaleur sur les points de tensions , le corps et l’esprit sont détendus et
                         apaisés
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -549,7 +550,7 @@
                       <p class="text-marieBlue">Véritable moment de détente , laissez vous envoûter par la douce chaleur d’une bougie délicatement
                         parfumée.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -580,7 +581,7 @@
                     <div class="collapse-content">
                       <p class="text-marieBlue">Massage profond et rythmé comme à l’image des vagues de Hawaï tantôt calme et tantôt puissantes .
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -612,7 +613,7 @@
                       <p class="text-marieBlue">C’est un massage de la voûte plantaire qui stimule les points réflexes des pieds , il permet de combattre le
                         stress et d’apaiser les tensions du corps.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -652,7 +653,7 @@
           </div>
           <div class="collapse-content">
             <p class="text-marieBlue font-bold bg-white p-6 rounded-box"> Pour vos soins , c'est une marque bretonne que j'ai sélectionné pour prendre soin de votre peau . Phytomer croit en la mer et en ses incroyables bienfaits pour révéler une peau belle et saine . Privilégiant des méthodes éco-responsables dans leurs propres laboratoires , chacun des produits et soins cabine offrent une expérience bien-être que j'aurai plaisir à vous faire découvrir.</p>
-            <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+            <div class="overflow-x-auto relative shadow-md rounded-lg">
               <table class="w-full text-left text-white">
                 <tbody>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
@@ -664,7 +665,7 @@
                       <p class="text-marieBlue">Profondément relaxant et ré-énergisant ce soin d’exception associe gommage et massage intégral du
                         corps totalement englobant.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -695,7 +696,7 @@
                     <div class="collapse-content">
                       <p class="text-marieBlue">Combinaison parfaite de mouvements amples et fluides pour débloquer les tensions et offrir une complète relaxation.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -727,7 +728,7 @@
                       <p class="text-marieBlue">Massage dynamisant personnalisé pour un corps détendu et revigoré, comme après une escapade en
                         bord de mer .
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -759,7 +760,7 @@
                       <p class="text-marieBlue">Effleurages, pression , étirements, ce massage d’inspiration Thaï élimine une à une les tensions grâce à la
                         douce chaleur des bollus de mer.
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -799,7 +800,7 @@
           </div>
           <div class="collapse-content">
             <p class="text-marieBlue font-bold bg-white p-6 rounded-box"> Pour vos soins , c'est une marque bretonne que j'ai sélectionné pour prendre soin de votre peau . Phytomer croit en la mer et en ses incroyables bienfaits pour révéler une peau belle et saine . Privilégiant des méthodes éco-responsables dans leurs propres laboratoires , chacun des produits et soins cabine offrent une expérience bien-être que j'aurai plaisir à vous faire découvrir.</p>
-            <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+            <div class="overflow-x-auto relative shadow-md rounded-lg">
               <table class="w-full text-left text-white">
                 <tbody>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
@@ -810,7 +811,7 @@
                     <div class="collapse-content">
                       <p class="text-marieBlue">Un massage décontractant du dos , du cuir chevelu et des pieds , associé à des produits marins détoxinants et reminéralisants .
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -842,7 +843,7 @@
                       <p class="text-marieBlue">Gommage du corps associé à une hydratation pour une mise en beauté express qui laisse
                         votre peau douce et soyeuse .
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -880,7 +881,7 @@
             Pour les Futures Mamans 
           </div>
           <div class="collapse-content">
-            <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+            <div class="overflow-x-auto relative shadow-md rounded-lg">
               <table class="w-full text-left text-white">
                 <tbody>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
@@ -894,7 +895,7 @@
                         grossesse .
                         Accessible à partir du 4ème mois de grossesse
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -925,7 +926,7 @@
                     <div class="collapse-content">
                       <p class="text-marieBlue">Soin du visage personnalisé , pour réhydrater la peau et redonner tout son éclat au teint
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>
@@ -959,7 +960,7 @@
                         soulager les tensions liées à la grossesse.
                         Accessible à partir de 4ème mois de grossesse .
                         </p>
-                      <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
                         <table class="w-full text-left text-white">
                           <thead>

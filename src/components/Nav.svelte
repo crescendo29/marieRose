@@ -7,7 +7,7 @@
   }
 </script>
 
-<div class="fixed z-[100] w-full h-[80px] shadow-xl flex justify-between items-center px-4 bg-gold-texture text-marieBlue">
+<div class="fixed z-[100] w-full h-[80px] shadow-xl flex justify-between items-center px-4 bg-gold-texture text-marieBlue md:justify-around">
   <div class="flex items-center">
     <img src="images/logo1.webp" class="w-[70px]" alt="logo">
     <div class="pl-4">
@@ -19,12 +19,12 @@
 
   <!-- menu -->
   <ul class="hidden md:flex font-bold">
-        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/">Accueil</a></li>
-        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/prestations">Nos Prestations</a></li>
-        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/produits">Nos Produits</a></li>
-        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
-        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/espacecadeaux">Espace Cadeaux</a></li>
-        <li class="hover:bg-marieBlue rounded-xl hover:text-white"><a href="/infos">Infos Pratiques</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/">Accueil</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/prestations">Nos Prestations</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/produits">Nos Produits</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/espacecadeaux">Espace Cadeaux</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/infos">Infos Pratiques</a></li>
   </ul>
 
   <!-- Hamburger -->

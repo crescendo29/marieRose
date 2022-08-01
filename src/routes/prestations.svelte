@@ -1,3 +1,7 @@
+<script>
+import Footer from "../components/Footer.svelte";
+
+</script>
 
 <div class="relative top-[80px] pt-4 w-full bg-marieBlue h-full flex items-center justify-center">
 
@@ -1013,3 +1017,4 @@
 
 
 </div>
+<Footer />

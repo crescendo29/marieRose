@@ -1,4 +1,4 @@
-<div class="relative top-[80px] pt-4 md:h-screen md:w-[1240px] mx-auto flex flex-col justify-center bg-aurora-texture h-full">
+<div class="relative top-[80px] pt-4 md:h-screen md:w-[1240px] mx-auto flex flex-col justify-center bg-aurora-texture h-screen">
   <div class="px-4 container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
     <div class="relative bg-box bg-cover rounded-lg shadow-xl shadow-black/80 h-[350px]">
       <p class="bg-gold-texture text-marieBlue font-bold p-1 rounded-lg shadow-xl shadow-black/60">Pour les petites et les grandes occasions, pensez à nos <span class="uppercase tracking-widest">cartes cadeaux</span> </p>

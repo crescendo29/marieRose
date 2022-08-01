@@ -2,7 +2,7 @@
   <div class="card lg:card-side bg-gold-texture shadow-xl shadow-black/80">
     <figure class="md:p-2"><img  src="https://placeimg.com/400/400/arch" class="rounded-lg" alt="Album"></figure>
     <div class="card-body text-marieBlue flex items-center text-lg">
-      <h2 class="card-title">DOUCE &Eacute;vasion</h2>
+      <h2 class="card-title">DOUCE &Eacute;VASION</h2>
       <p>Tél. 02 98 35 03 66</p>
       <p>119 rue du couédic • 29300 Quimperlé</p>
       <p>horaires d’ouverture</p>

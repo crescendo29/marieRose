@@ -1,29 +1,14 @@
-<section class="flex flex-col justify-center bg-aurora-texture min-h-screen text-white">
-  <div class="container">
-  <div class="card mx-12 p-6">
-    <div class="content">
-      <h2>Carte Cadeau</h2>
-      <h3>Card One</h3>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident itaque recusandae nulla autem quasi sed qui facere tempore iusto, illum laboriosam voluptates cupiditate, veniam eligendi quo, ipsa enim non minima?</p>
+<div class="relative top-[80px] pt-4 md:h-screen md:w-[1240px] mx-auto flex flex-col justify-center bg-aurora-texture h-full">
+  <div class="px-4 container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div class="relative bg-box bg-cover rounded-lg shadow-xl shadow-black/80 h-[350px]">
+      <p class="bg-gold-texture text-marieBlue font-bold p-1 rounded-lg shadow-xl shadow-black/60">Pour les petites et les grandes occasions, pensez à nos <span class="uppercase tracking-widest">cartes cadeaux</span> </p>
+      <p class="text-white absolute bottom-3 text-xl left-[10%] font-bold">Quelqu'un a pensé à <span class="italic">Vous</span>...</p>
+    </div>
+    <div class="bg-gray-100 rounded-lg shadow-xl shadow-black/80 h-[350px] p-4 text-marieBlue flex flex-col items-center justify-center">
+      <h3 class="font-bold">Offre Parrainage</h3>
+      <p>Vous appréciez nos services?</p>
+      <p class="text-center py-4">Faites nous découvrir et profitez de <span class="text-gold text-2xl">20%</span> de réduction sur la prestation de votre choix</p>
+      <p class="text-center">Votre filleul(e) bénéficiera de <span class="text-gold text-2xl">15%</span> de réduction sur la prestation de son choix</p>
     </div>
   </div>
 </div>
-  <div class="container">
-  <div class="card m-12 p-6">
-    <div class="content">
-      <h2>Offre parainage</h2>
-      <h3>Card Two</h3>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident itaque recusandae nulla autem quasi sed qui facere tempore iusto, illum laboriosam voluptates cupiditate, veniam eligendi quo, ipsa enim non minima?</p>
-    </div>
-  </div>
-</div>
-</section>
-
-<style>
-  .card{
-    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
-    background: rgba(255,255,255,0.1);
-    border-top: 1px solid rgba(255,255,255,0.5);
-    border-left: 1px solid rgba(255,255,255,0.5);
-  }
-</style>

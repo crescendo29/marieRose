@@ -11,7 +11,8 @@
   </section>
 
   <section class="md:max-w-[1000px] px-6 mx-auto h-screen">
-    <p class="text-white p-8">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed alias ut obcaecati. Ad neque debitis, voluptates maiores eius, nemo magnam sit ab eaque doloremque ullam. Adipisci amet harum sit debitis. Quam magnam minus itaque rerum nulla! Porro laboriosam recusandae quae, ex eaque dicta ea quo quis culpa cumque qui non nemo. Perspiciatis odio laudantium reprehenderit quam architecto assumenda ratione enim, nam dicta cupiditate libero dolores sequi, animi necessitatibus adipisci dolor eos ut, similique soluta eveniet! Inventore fuga in cumque quam modi quod veritatis tempora accusamus earum nihil asperiores sit deleniti quisquam, reprehenderit quasi soluta ipsum quis consequatur? Maxime, deserunt impedit.</p>
+    <p class="text-white p-8">"C'est après 18 années d'experiences en Instituts et en SPA que j'ai décidé de créer mon espace Bien-être à Quimperlé, celui qui me ressemble et que je souhaite vous faire partager. Situé dans la galerie marchande de votre Carrefour Market, il vous sera facile de trouver une place de parking."</p>
+    <p>&Aacute; votre écoute, douce et attentionnée, Marie-Rose saura vous proposer les soins les plus adaptés à votre corps. Attachée à la qualité des soins, c'est avec des produits de qualité qu'elle réalisera votre prestation.</p>
     <a href="https://www.planity.com/douce-evasion-29300-quimperle" class=" m-2 bg-gold-texture border-x-4 border-goldish text-marieBlue flex items-center justify-center font-bold tracking-widest p-6 rounded-full shadow-xl hover:scale-105">Prendre Rendez-Vous</a>
   </section>
 </div>

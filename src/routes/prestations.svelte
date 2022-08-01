@@ -378,6 +378,24 @@
                     </td>
                     <td>75€</td>
                   </tr>
+                  <tr class="bg-marieBlueLighter">
+                    <td class="p-2">
+                    <div class="">
+                      <p> Peau Neuve Au Masculin</p>
+                        <p class="text-sm">Soin du visage personnalisé et adapté aux spécificités des peaux masculines<span class="text-xs ml-4">60 min</span></p>
+                    </div> 
+                    </td>
+                    <td>75€</td>
+                  </tr>
+                  <tr class="bg-marieBlueLighter rounded-b-lg">
+                    <td class="p-2">
+                    <div class="">
+                      <p> Peau Neuve Au Masculin</p>
+                        <p class="text-sm">Soin du visage personnalisé et adapté aux spécificités des peaux masculines<span class="text-xs ml-4">90 min</span></p>
+                    </div> 
+                    </td>
+                    <td>95€</td>
+                  </tr>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
                     <input type="checkbox" /> 
                     <div class="collapse-title text-xl font-bold text-marieBlue">

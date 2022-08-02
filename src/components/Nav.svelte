@@ -9,7 +9,9 @@
 
 <div class="relative z-[100] w-full h-[80px] shadow-xl flex justify-between items-center px-4 bg-gold-texture text-marieBlue md:justify-around">
   <div class="flex items-center">
-    <img src="images/logo1.webp" class="w-[70px]" alt="logo">
+    <a href="/">
+      <img src="images/logo1.webp" class="w-[70px]" alt="logo">
+    </a>
     <div class="pl-4">
       <h1 class="normal-case font-bold text-xs text-marieBlue">DOUCE &Eacute;VASION</h1>
     <h3 class="text-marieBlueLight text-sm">INSTITUT BEAUT&Eacute; ET BIEN &Ecirc;TRE</h3>
@@ -52,5 +54,12 @@
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/espacecadeaux">Espace Cadeaux</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/infos">Infos Pratiques</a></li>
+          <li class="py-6 text-4xl" on:click={toggleNavbar}>
+            <div class="flex flex-col items-center justify-between w-1/2 mx-auto text-marieBlue text-sm">
+              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="/"><img src="/images/facebook.svg" alt="facebook">Facebook</a></div>
+              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="/"><img src="/images/instagram.svg" alt="facebook">Instagram</a></div>
+              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2 px-5" href="/"><img src="/images/email.svg" alt="facebook">Email</a></div>
+          </div>
+          </li>
   </ul>
 </div>

@@ -1,13 +1,10 @@
-<script>
-import Footer from "../components/Footer.svelte";
 
-</script>
 
-<div class="relative top-[80px] pt-4 w-full bg-marieBlue h-full flex items-center justify-center">
+<div class="relative pt-4 w-full bg-marieBlue h-full flex items-center justify-center">
 
    <div class="grid grid-cols-1 gap-4 md:max-w-[1000px]">
 
-    <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+    <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
       <input type="checkbox" /> 
       <div class="collapse-title text-xl font-bold text-marieBlue">
         Épilations Epiloderm®
@@ -249,7 +246,7 @@ import Footer from "../components/Footer.svelte";
     
     <!-- mise en beauté -->
     
-      <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+      <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
         <input type="checkbox" /> 
         <div class="collapse-title text-xl font-bold text-marieBlue">
           Mise en Beauté
@@ -294,7 +291,7 @@ import Footer from "../components/Footer.svelte";
     
     <!-- beauté des ongles -->
     
-        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
           <input type="checkbox" /> 
           <div class="collapse-title text-xl font-bold text-marieBlue">
             Beauté des Ongles
@@ -352,7 +349,7 @@ import Footer from "../components/Footer.svelte";
     
     <!-- les soins du visage phytomer -->
     
-        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
           <input type="checkbox" />            
           <div class="collapse-title text-xl font-bold text-marieBlue">
             Les Soins du Visage Phytomer
@@ -520,7 +517,7 @@ import Footer from "../components/Footer.svelte";
     
         <!-- les massages -->
     
-        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
           <input type="checkbox" /> 
           <div class="collapse-title text-xl font-bold text-marieBlue">
             Les Massages
@@ -668,7 +665,7 @@ import Footer from "../components/Footer.svelte";
     
         <!-- les soins corps phytomer -->
     
-        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
           <input type="checkbox" /> 
           <div class="collapse-title text-xl font-bold text-marieBlue">
             Les Soins Corps Phytomer
@@ -815,7 +812,7 @@ import Footer from "../components/Footer.svelte";
     
         <!-- les soins ciblés -->
     
-        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
           <input type="checkbox" /> 
           <div class="collapse-title text-xl font-bold text-marieBlue">
             Les Soins Ciblés Phytomer
@@ -897,7 +894,7 @@ import Footer from "../components/Footer.svelte";
     
         <!-- pour les futures mamans -->
     
-        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+        <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box shadow-lg shadow-blue-500/80">
           <input type="checkbox" /> 
           <div class="collapse-title text-xl font-bold text-marieBlue">
             Pour les Futures Mamans 
@@ -1017,4 +1014,3 @@ import Footer from "../components/Footer.svelte";
 
 
 </div>
-<Footer />

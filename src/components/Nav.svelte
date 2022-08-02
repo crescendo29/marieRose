@@ -7,7 +7,7 @@
   }
 </script>
 
-<div class="fixed z-[100] w-full h-[80px] shadow-xl flex justify-between items-center px-4 bg-gold-texture text-marieBlue md:justify-around">
+<div class="relative z-[100] w-full h-[80px] shadow-xl flex justify-between items-center px-4 bg-gold-texture text-marieBlue md:justify-around">
   <div class="flex items-center">
     <img src="images/logo1.webp" class="w-[70px]" alt="logo">
     <div class="pl-4">

@@ -1,4 +1,4 @@
-<section class="bg-gold-texture relative top-[80px] h-screen flex items-center justify-center">
+<section class="bg-gold-texture relative h-screen flex items-center justify-center">
   <div class="card lg:card-side bg-gold-texture shadow-xl shadow-black/80">
     <figure class="md:p-2"><img  src="https://placeimg.com/400/400/arch" class="rounded-lg" alt="Album"></figure>
     <div class="card-body text-marieBlue flex items-center text-lg">

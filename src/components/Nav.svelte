@@ -20,13 +20,20 @@
   </div>
 
   <!-- menu -->
-  <ul class="hidden md:flex font-bold">
+  <ul class="hidden md:flex md:items-center font-bold">
         <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/">Accueil</a></li>
         <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/prestations">Nos Prestations</a></li>
         <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/produits">Nos Produits</a></li>
-        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
+        <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="https://www.planity.com/douce-evasion-29300-quimperle">Prendre Rendez-Vous</a></li>
         <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/espacecadeaux">Espace Cadeaux</a></li>
         <li class="hover:shadow-inner hover:shadow-black/70 hover:scale-110 rounded-xl"><a href="/infos">Infos Pratiques</a></li>
+        <li class="py-6 text-4xl" on:click={toggleNavbar}>
+          <div class="flex items-center justify-between w-1/2 mx-auto text-marieBlue text-sm">
+            <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="https://www.facebook.com/Douce-Evasion-Quimperl%C3%A9-101247496029036/?ref=page_internal"><img src="/images/facebook.svg" alt="facebook">Facebook</a></div>
+            <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="/"><img src="/images/instagram.svg" alt="facebook">Instagram</a></div>
+            <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2 px-5" href="/contact"><img src="/images/email.svg" alt="facebook">Email</a></div>
+          </div>
+        </li>
   </ul>
 
   <!-- Hamburger -->
@@ -51,15 +58,15 @@
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/">Accueil</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/prestations">Nos Prestations</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/produits">Nos Produits</a></li>
-          <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="https://www.planity.com/">Prendre Rendez-Vous</a></li>
+          <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="https://www.planity.com/douce-evasion-29300-quimperle">Prendre Rendez-Vous</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/espacecadeaux">Espace Cadeaux</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}><a href="/infos">Infos Pratiques</a></li>
           <li class="py-6 text-4xl" on:click={toggleNavbar}>
             <div class="flex flex-col items-center justify-between w-1/2 mx-auto text-marieBlue text-sm">
-              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="/"><img src="/images/facebook.svg" alt="facebook">Facebook</a></div>
+              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="https://www.facebook.com/Douce-Evasion-Quimperl%C3%A9-101247496029036/?ref=page_internal"><img src="/images/facebook.svg" alt="facebook">Facebook</a></div>
               <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2" href="/"><img src="/images/instagram.svg" alt="facebook">Instagram</a></div>
-              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2 px-5" href="/"><img src="/images/email.svg" alt="facebook">Email</a></div>
-          </div>
+              <div><a class="flex flex-col items-center justify-center hover:scale-110 hover:shadow-inner hover:shadow-black/70 rounded-xl p-2 px-5" href="/contact"><img src="/images/email.svg" alt="facebook">Email</a></div>
+            </div>
           </li>
   </ul>
 </div>

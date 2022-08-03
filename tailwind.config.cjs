@@ -11,6 +11,11 @@ module.exports = {
       lg: "976px",
       xl: "1440px",
     },
+    listStyleType: {
+      none: 'none',
+      disc: 'disc',
+      circle: 'circle',
+    },
     extend: {
       backgroundImage: {
         'hero-pattern': "url('/images/hero.webp')",
@@ -27,8 +32,8 @@ module.exports = {
         marieBlue: "rgba(28,37,70,100%)",
         marieBlueLight: "rgba(28,37,70,70%)",
         marieBlueLighter: "rgba(28,37,70,90%)",
-        greenepilo: "#4BAE32",
-        blueepilo: "#869C8A",
+        pinkepilo: "rgba(234,44,89,1)",
+        blueepilo: "rgba(159,188,198,0.3)",
         phytomerClear: "#F9F8F7",
         phytomer: "#A99E8E",
       },
@@ -37,3 +42,10 @@ module.exports = {
   },
   plugins: [require("daisyui")],
 }
+
+
+// gris greenepilo: "rgba(106,106,107,1)"
+
+// bleu background-image: radial-gradient( circle farthest-corner at 5.6% 54.5%,  rgba(47,71,79,1) 0%, rgba(159,188,198,1) 83.6% );
+
+// rose 234,44,89,1

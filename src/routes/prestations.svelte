@@ -1,6 +1,6 @@
 
 
-<div class="relative pt-4 w-full bg-marieBlue h-full flex items-center justify-center">
+<div class="relative pt-4 w-full bg-marieBlue h-full flex items-center justify-center mb-4">
 
    <div class="grid grid-cols-1 gap-4 md:max-w-[1000px]">
 
@@ -379,24 +379,46 @@
                     </td>
                     <td>75€</td>
                   </tr>
-                  <tr class="bg-marieBlueLighter">
-                    <td class="p-2">
-                    <div class="">
-                      <p> Peau Neuve Au Masculin</p>
-                        <p class="text-sm">Soin du visage personnalisé et adapté aux spécificités des peaux masculines<span class="text-xs ml-4">60 min</span></p>
-                    </div> 
-                    </td>
-                    <td>75€</td>
-                  </tr>
-                  <tr class="bg-marieBlueLighter rounded-b-lg">
-                    <td class="p-2">
-                    <div class="">
-                      <p> Peau Neuve Au Masculin</p>
-                        <p class="text-sm">Soin du visage personnalisé et adapté aux spécificités des peaux masculines<span class="text-xs ml-4">90 min</span></p>
-                    </div> 
-                    </td>
-                    <td>95€</td>
-                  </tr>
+                  <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
+                    <input type="checkbox" /> 
+                    <div class="collapse-title text-xl font-bold text-marieBlue">
+                      Les Soins au Masculin
+                    </div>
+                    <div class="collapse-content">
+                      <p class="text-marieBlue">Le soin sera déterminé ensemble après votre diagnostic de peau en cabine.
+                        </p>
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
+                        
+                        <table class="w-full text-left text-white">
+                          <thead>
+                            <tr>
+                              <th class="bg-marieBlueLighter"></th>
+                              <th class="bg-marieBlueLighter">60min</th>
+                              <th class="bg-marieBlueLighter">90min*</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr class="bg-marieBlue">
+                              <td class="p-2">
+                                <div class="">
+                                  <p>Peau Neuve Au Masculin</p>
+                                  <p class="text-sm">Soin du visage personnalisé et adapté aux spécificités des peaux masculines</p>
+                                </div>
+                              </td>
+                              <td>75€</td>
+                              <td>95€</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                        <p class="text-marieBlue font-bold">*Les soins 90min comprennent au choix :</p>
+                        <ul class="text-marieBlue">
+                          <li><span class="font-bold"> Relax dos :</span> Massage décontractant du dos et pose de la boue marine auto-chauffante durant
+                            votre soin du visage</li>
+                          <li><span class="font-bold">  Perfect regard : </span> Soin ultra-complet, performant et relaxant, pour un regard qui pétille de jeunesse</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
                     <input type="checkbox" /> 
                     <div class="collapse-title text-xl font-bold text-marieBlue">
@@ -535,7 +557,7 @@
                     </div>
                     <div class="collapse-content">
                       <p class="text-marieBlue">Les pierres volcaniques diffusent leur chaleur sur les points de tensions , le corps et l’esprit sont détendus et
-                        apaisés
+                        apaisés.
                         </p>
                       <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
@@ -595,10 +617,10 @@
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
                     <input type="checkbox" /> 
                     <div class="collapse-title text-xl font-bold text-marieBlue">
-                      Massage Lomi Lomi
+                      Massage Lomi-Lomi
                     </div>
                     <div class="collapse-content">
-                      <p class="text-marieBlue">Massage profond et rythmé comme à l’image des vagues de Hawaï tantôt calme et tantôt puissantes .
+                      <p class="text-marieBlue">Massage profond et rythmé comme à l’image des vagues de Hawaï tantôt calme et tantôt puissantes.
                         </p>
                       <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
@@ -625,10 +647,10 @@
                   </div>
                   <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture rounded-box">
                     <input type="checkbox" /> 
-                    <div class="collapse-title text-xl font-bold text-marieBlue">
+                    <div  class="collapse-title text-xl font-bold text-marieBlue">
                       Réflexologie plantaire de détente
                     </div>
-                    <div class="collapse-content">
+                    <div  class="collapse-content">
                       <p class="text-marieBlue">C’est un massage de la voûte plantaire qui stimule les points réflexes des pieds , il permet de combattre le
                         stress et d’apaiser les tensions du corps.
                         </p>
@@ -745,7 +767,7 @@
                     </div>
                     <div class="collapse-content">
                       <p class="text-marieBlue">Massage dynamisant personnalisé pour un corps détendu et revigoré, comme après une escapade en
-                        bord de mer .
+                        bord de mer.
                         </p>
                       <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
@@ -828,7 +850,7 @@
                       Champagne des mers
                     </div>
                     <div class="collapse-content">
-                      <p class="text-marieBlue">Un massage décontractant du dos , du cuir chevelu et des pieds , associé à des produits marins détoxinants et reminéralisants .
+                      <p class="text-marieBlue">Un massage décontractant du dos , du cuir chevelu et des pieds , associé à des produits marins détoxinants et reminéralisants.
                         </p>
                       <div class="overflow-x-auto relative shadow-md rounded-lg">
                         
@@ -1007,10 +1029,136 @@
               </table>
             </div>
           </div>
+          
         </div>
 
-   </div> 
+                <!-- les bons cadeau -->
 
+                <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture text-marieBlue rounded-box shadow-lg shadow-blue-500/80">
+                    <input type="checkbox" /> 
+                    <div class="collapse-title text-xl font-bold text-marieBlue">
+                      Les Bons Cadeaux
+                    </div>
+                    <div class="collapse-content">
+                      <p class="text-marieBlue pb-4">Pour offrir un moment de détente à la personne de votre choix sans se tromper :
+                        Choisissez votre budget et la personne choisira elle-même son soin le jour de son rendez-vous.
+                      </p>
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
+                        <div class="bg-gray-800/10 p-4 mb-2">
+                            <h3 class="font-bold">Une Douce Escapade</h3>
+                            <div class="flex items-center justify-around font-bold">
+                              <p>30min de soin <span class="underline">au choix</span> </p>
+                              <p>38€</p>
+                            </div>
+                            <ul class="list-circle">
+                              <li class="group ">Réflexologie Plantaire de Détente <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">C’est un massage de la voûte plantaire qui stimule les points réflexes des pieds , il permet de combattre le
+                                  stress et d’apaiser les tensions du corps.</div>
+                              </li>  
+                              <li class="group">Massage à la Bougie <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Véritable moment de détente , laissez vous envoûter par la douce chaleur d’une bougie délicatement
+                                  parfumée.</div>
+                              </li>  
+                              <li class="group">Soin du Visage Peau Nette Express <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Soin Nettoyage de Peau.</div>
+                              </li>  
+                              <li class="group">Beauté des Mains
+                              </li>  
+                            </ul>
+                        </div>
+                        <div class="bg-gray-800/10 p-4 mb-2">
+                            <h3 class="font-bold">Une Douce &Eacute;chapée</h3>
+                            <div class="flex items-center justify-around font-bold">
+                              <p>60min de soin <span class="underline">au choix</span></p>
+                              <p>70€</p>
+                            </div>
+                            <ul class="list-circle">
+                              <li class="group ">Massage aux Pierres Chaudes <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Les pierres volcaniques diffusent leur chaleur sur les points de tensions , le corps et l’esprit sont détendus et
+                                  apaisés.</div>
+                              </li>  
+                              <li class="group">Massage à la Bougie <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Véritable moment de détente , laissez vous envoûter par la douce chaleur d’une bougie délicatement
+                                  parfumée.</div>
+                              </li>  
+                              <li class="group">Vague Californienne <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Combinaison parfaite de mouvements amples et fluides pour débloquer les tensions et offrir une complète relaxation.</div>
+                              </li>  
+                              <li class="group">Trésor des Mers <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Massage dynamisant personnalisé pour un corps détendu et revigoré, comme après une escapade en
+                                  bord de mer.</div>
+                              </li>  
+                              <li class="group">Sea Holistic <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Effleurages, pression , étirements, ce massage d’inspiration Thaï élimine une à une les tensions grâce à la
+                                  douce chaleur des bollus de mer.</div>
+                              </li>  
+                              <li class="group">Champagne des Mers <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Un massage décontractant du dos , du cuir chevelu et des pieds , associé à des produits marins détoxinants et reminéralisants .</div>
+                              </li>  
+                              <li class="group">Soin Visage Ciblé
+                                
+                              </li>  
+                              <li class="group">Beauté des Mains ou Beauté des Pieds
+                                
+                              </li>  
+                                
+                            </ul>
+                        </div>
+                        <div class="bg-gray-800/10 p-4">
+                            <h3 class="font-bold">Une Douce Croisière</h3>
+                            <div class="flex items-center justify-around font-bold">
+                              <p>90min de soin <span class="underline">au choix</span></p>
+                              <p>95€</p>
+                            </div>
+                            <ul class="list-circle">
+                              <li class="group ">Massage aux Pierres Chaudes <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Les pierres volcaniques diffusent leur chaleur sur les points de tensions , le corps et l’esprit sont détendus et
+                                  apaisés.</div>
+                              </li>  
+                              <li class="group">Massage à la Bougie <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Véritable moment de détente , laissez vous envoûter par la douce chaleur d’une bougie délicatement
+                                  parfumée.</div>
+                              </li> 
+                              <li class="group">Massage Lomi-Lomi <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Massage profond et rythmé comme à l’image des vagues de Hawaï tantôt calme et tantôt puissantes.</div>
+                              </li> 
+                              <li class="group">Oligomer Spa<span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Profondément relaxant et ré-énergisant ce soin d’exception associe gommage et massage intégral du
+                                  corps totalement englobant.</div>
+                              </li> 
+                              <li class="group">Vague Californienne <span class="underline">info</span>
+                                <div class="hidden relative z-50 p-4 rounded-lg bg-marieBlue text-gold group-hover:block">Combinaison parfaite de mouvements amples et fluides pour débloquer les tensions et offrir une complète relaxation.</div>
+                              </li> 
+                              <li class="group">Soin Visage Ciblé
+                                
+                              </li> 
+                            </ul>
+                        </div>
+                        <div class="bg-gray-800/10 p-4">
+                            <h3 class="font-bold">Une Douce &Eacute;vasion</h3>
+                            <div class="flex items-center justify-around font-bold">
+                              <p>120min de soin <span class="underline">au choix</span></p>
+                              <p>129€</p>
+                            </div>
+                            <ul class="list-circle">
+                              <li class="group ">Un massage de 60min au choix ET un Soin Visage Ciblé 60min
+                                
+                              </li>  
+                              <li class="group">Soin Oligomer Spa ET un Soin Visage Peau Nette Express
+                              </li>  
+                              <li class="group">Une Beauté des mains ET un Soin visage Ciblé
+                              </li>  
+                              <li class="group">Une Beauté des Pieds et un Massage de 75min
+                              </li>  
+                            </ul>
+                        </div>
+                        
+                      
+                      </div>
+                    </div>
+                  </div>
+   </div> 
+   
 
 
 </div>

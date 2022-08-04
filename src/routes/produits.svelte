@@ -1,4 +1,4 @@
-<section class="bg-marieBlue h-screen relative pt-4 flex flex-col justify-center md:w-[1240px] mx-auto">
+<section class="bg-marieBlue h-screen pt-4 flex flex-col justify-center md:w-[1240px] mx-auto">
   <div class="collapse mx-4 mt-4 rounded-xl">
     <input type="checkbox" class="peer" /> 
     <div class="collapse-title bg-gradient-to-r from-pinkepilo to-blueepilo text-white peer-checked:text-pink-100">

@@ -1,6 +1,6 @@
 
 
-<div class="relative pt-4 w-full bg-marieBlue h-full flex items-center justify-center mb-4">
+<div class="pt-4 w-full bg-marieBlue h-full flex items-center justify-center mb-4">
 
    <div class="grid grid-cols-1 gap-4 md:max-w-[1000px]">
 
@@ -1041,7 +1041,7 @@
                     </div>
                     <div class="collapse-content">
                       <p class="text-marieBlue pb-4">Pour offrir un moment de détente à la personne de votre choix sans se tromper :
-                        Choisissez votre budget et la personne choisira elle-même son soin le jour de son rendez-vous.
+                        Choisissez votre budget et la personne choisira elle-même son soin le jour de son rendez-vous. Valable 6 mois.
                       </p>
                       <div class="overflow-x-auto relative shadow-md rounded-lg">
                         <div class="bg-gray-800/10 p-4 mb-2">
@@ -1157,6 +1157,45 @@
                       </div>
                     </div>
                   </div>
+                <!-- Abonnements -->
+
+                <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-gold-texture text-marieBlue rounded-box shadow-lg shadow-blue-500/80">
+                    <input type="checkbox" /> 
+                    <div class="collapse-title text-xl font-bold text-marieBlue">
+                      Les Abonnements
+                    </div>
+                    <div class="collapse-content">
+                      <p class="text-marieBlue pb-4">&Aacute; répartir à votre convenance tout au long de l'année.
+                      </p>
+                      <p>Choisissez :</p>
+                      <p>Soins du Visage, Massages ou encore Soins Corps selon vos envies et vos besoins.</p>
+                      <p class="pb-4">Valable 12 mois pour une ou deux personnes.</p>
+                      <div class="overflow-x-auto relative shadow-md rounded-lg">
+                        <div class="bg-gray-800/10 px-4">
+                            <table class="w-full text-left text-marieBlue">
+                              <tr>
+                                <td class="font-bold text-xl">Bien-être</td>
+                                <td>6h de Soins</td>
+                                <td class="font-bold text-xl">380€</td>
+                              </tr>
+                              <tr>
+                                <td class="font-bold text-xl">Quiétude</td>
+                                <td>12h de Soins</td>
+                                <td class="font-bold text-xl">750€</td>
+                              </tr>
+                              <tr>
+                                <td class="font-bold text-xl">Sérénité</td>
+                                <td>20h de Soins</td>
+                                <td class="font-bold text-xl">1250€</td>
+                              </tr>
+                            </table>
+                        </div>
+                        
+                      
+                      </div>
+                    </div>
+                  </div>
+
    </div> 
    
 

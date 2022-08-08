@@ -2,6 +2,14 @@
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
+    corePlugins: {
+      backdropOpacity: false,
+      backgroundOpacity: false,
+      borderOpacity: false,
+      divideOpacity: false,
+      ringOpacity: false,
+      textOpacity: false
+  },
     screens: {
       // sm: "480px",
       // md: "768px",

@@ -2,14 +2,17 @@
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    fontFamily: {
-      'phyto': ['Helvetica Neue LT Std']
-    },
     screens: {
-      sm: "480px",
-      md: "768px",
-      lg: "976px",
-      xl: "1440px",
+      // sm: "480px",
+      // md: "768px",
+      // lg: "976px",
+      // xl: "1440px",
+      xs: { max: '575px' },
+      sm: { min: '576px', max: '897px' },
+      md: { min: '898px' },
+      lg: { min: '1200px' },
+      xl: { min: '1159px' },
+      xxl: { min: '1359px' },
     },
     listStyleType: {
       none: 'none',

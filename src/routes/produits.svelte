@@ -33,7 +33,7 @@
 
 <div class="bg-gradient-to-r from-phytomer to-phytomerClear flex items-center justify-center">
   <!-- The button to open modal Phytomer -->
-  <label for="my-modal-2" class="btn modal-button uppercase bg-gradient-to-r from-phytomer to-phytomerClear text-marieBlue h-[350px] w-[250px] border-none">Phytomer</label>
+  <label for="my-modal-2" class="btn modal-button uppercase bg-gradient-to-r from-phytomer to-phytomerClear text-marieBlue h-[350px] w-[250px] border-none"><img src="/images/phytomerLogo.png" alt="phytomer"><img src="/images/phytomer.webp" alt="phytomer"></label>
 
   <!-- Put this part before </body> tag -->
   <input type="checkbox" id="my-modal-2" class="modal-toggle" />

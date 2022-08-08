@@ -1181,12 +1181,12 @@
                               <tr>
                                 <td class="font-bold text-xl">Quiétude</td>
                                 <td>12h de Soins</td>
-                                <td class="font-bold text-xl">750€</td>
+                                <td class="font-bold text-xl">740€</td>
                               </tr>
                               <tr>
                                 <td class="font-bold text-xl">Sérénité</td>
                                 <td>20h de Soins</td>
-                                <td class="font-bold text-xl">1250€</td>
+                                <td class="font-bold text-xl">1190€</td>
                               </tr>
                             </table>
                         </div>

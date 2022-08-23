@@ -16,7 +16,8 @@
         <a href="https://www.planity.com/douce-evasion-29300-quimperle" class="bg-marieBlue border-x-4 border-goldish text-white font-bold tracking-widest p-4 rounded-full shadow-xl shadow-black/60 hover:bg-gold-texture hover:text-marieBlue hover:scale-105">Prendre Rendez-Vous</a>
       </div>
     </div>
+    <p class="text-marieBlue p-2">Developed by <a href="https://www.rodolphebeauverger@vercel.app" class="underline">Rodolphe Beauverger</a></p>
   </div>
-
+  
 </section>
 

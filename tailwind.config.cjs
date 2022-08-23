@@ -11,16 +11,11 @@ module.exports = {
       textOpacity: false
   },
     screens: {
-      // sm: "480px",
-      // md: "768px",
-      // lg: "976px",
-      // xl: "1440px",
-      xs: { max: '575px' },
-      sm: { min: '576px', max: '897px' },
-      md: { min: '898px' },
-      lg: { min: '1200px' },
-      xl: { min: '1159px' },
-      xxl: { min: '1359px' },
+      xs: "320px",
+      sm: "480px",
+      md: "768px",
+      lg: "976px",
+      xl: "1440px",
     },
     listStyleType: {
       none: 'none',

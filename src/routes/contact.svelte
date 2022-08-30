@@ -4,7 +4,7 @@
     >
       <form
         method="POST"
-        action="https://getform.io/f/502315d1-750e-44c7-b438-54c3d0ae9dc0"
+        action="https://getform.io/f/d2e1cf55-0174-41f6-a175-9d24da10b319"
         class="flex flex-col max-w-[600px] w-full"
       >
         <div class="pb-8">

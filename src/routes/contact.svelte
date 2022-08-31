@@ -16,20 +16,20 @@
           </p>
         </div>
         <input
-          class="bg-[#ccd6f6] p-2"
+          class="bg-[#ccd6f6] p-2 text-gray-700"
           type="text"
           placeholder="Nom"
           name="name"
         />
         <input
-          class="my-4 p-2 bg-[#ccd6f6]"
+          class="my-4 p-2 bg-[#ccd6f6] text-gray-700"
           type="email"
           placeholder="Email"
           name="email"
         />
         <textarea
           name="message"
-          class="bg-[#ccd6f6] p-2"
+          class="bg-[#ccd6f6] p-2 text-gray-700"
           rows="10"
           placeholder="Message"
         ></textarea>

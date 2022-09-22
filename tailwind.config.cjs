@@ -29,7 +29,7 @@ module.exports = {
         'velours-texture': "url('/images/velours.webp')",
         'aurora-texture': "url('/images/cadeau.webp')",
         'hero-img': "url('/images/hero.webp')",
-        'gold-texture': "url('/images/or.jpg')",
+        'gold-texture': "url('/images/or.webp')",
         'box': "url('/images/box.webp')",
       },
       colors: {

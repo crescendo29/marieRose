@@ -14,6 +14,7 @@
 		"format": "prettier --write --plugin-search-dir=. ."
 	},
 	"devDependencies": {
+		"@beyonk/gdpr-cookie-consent-banner": "^9.0.3",
 		"@playwright/test": "^1.22.2",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/adapter-static": "^1.0.0-next.39",
@@ -34,7 +35,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@grrr/cookie-consent": "^1.2.1",
 		"daisyui": "^2.19.0",
-		"svelte-burger-menu": "^1.0.5"
+		"svelte-tailwind-cookieconsent": "^0.0.15"
 	}
 }

@@ -1,3 +1,10 @@
+<svelte:head>
+  <title>Douce évasion - Espace cadeaux, prenez soin de vos proches</title>
+  <meta name="description" content="Votre Esthéticienne Marie-Rose, véritable experte de la beauté en Institut de Beauté, met à votre disposition des méthodes de soin exclusives pour embellir votre visage et votre corps.... Faites un cadeau à vos proches" />
+  <meta name="keywords" content="quimperlé, institut, institut de beauté, soins en institut, esthéticienne, beauté, peau, visage, corps, soins, anti-âge, anti-rides, hydratation, jeunesse, éclat, minceur">
+  <meta name=”robots” content="index, follow">
+</svelte:head>
+
 <div class="pt-4 md:w-[1240px]  mx-auto flex items-center justify-center bg-aurora-texture h-full">
   <div class="h-screen px-4 container mx-auto flex flex-col md:flex-row items-center justify-between">
     <div class="relative bg-box bg-cover rounded-lg shadow-xl shadow-black/80 h-[350px] mb-2 md:mb-0">

@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>Douce évasion - Toutes les prestations proposées dans votre Institut</title>
+  <meta name="description" content="Les soins de Beauté du visage et du corps dans votre Institut Douce évasion sont adaptés à chaque type de peau et embellissent votre visage et votre corps. Explorez nos prestations">
+  <meta name="keywords" content="quimperlé, institut, institut de beauté, soins en institut, esthéticienne, beauté, peau, visage, corps, soins, anti-âge, anti-rides, hydratation, jeunesse, éclat, minceur">
+  <meta name=”robots” content="index, follow">
+</svelte:head>
 
 
 <div class="pt-4 w-full bg-marieBlue h-full flex items-center justify-center mb-4">
@@ -1067,7 +1073,7 @@
                             </ul>
                         </div>
                         <div class="bg-gray-800/10 p-4 mb-2">
-                            <h3 class="font-bold">Une Douce &Eacute;chapée</h3>
+                            <h3 class="font-bold">Une Douce &Eacute;chappée</h3>
                             <div class="flex items-center justify-around font-bold">
                               <p>60min de soin <span class="underline">au choix</span></p>
                               <p>70€</p>

@@ -1,3 +1,10 @@
+<svelte:head>
+  <title>Douce évasion - Prenez Contact et échangeons</title>
+  <meta name="description" content="Votre Esthéticienne Marie-Rose, véritable experte de la beauté en Institut de Beauté, met à votre disposition des méthodes de soin exclusives pour embellir votre visage et votre corps.... Echangeons avec plaisir!" />
+  <meta name="keywords" content="quimperlé, institut, institut de beauté, soins en institut, esthéticienne, beauté, peau, visage, corps, soins, anti-âge, anti-rides, hydratation, jeunesse, éclat, minceur">
+  <meta name=”robots” content="index, follow">
+</svelte:head>
+
 <div
       name="contact"
       class="w-full h-screen bg-[#0a192f] flex justify-center items-center p-4"

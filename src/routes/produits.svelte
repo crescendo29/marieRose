@@ -1,3 +1,9 @@
+<svelte:head>
+  <title>Douce évasion - Produits de Beauté, Marques</title>
+  <meta name="description" content="Votre Esthéticienne Marie-Rose, véritable experte de la beauté en Institut de Beauté, met à votre disposition des méthodes de soin exclusives pour embellir votre visage et votre corps avec des produits et concepts de qualité " />
+  <meta name="keywords" content="quimperlé, institut, institut de beauté, soins en institut, esthéticienne, beauté, peau, visage, corps, soins, anti-âge, anti-rides, hydratation, jeunesse, éclat, minceur">
+  <meta name=”robots” content="index, follow">
+</svelte:head>
 
 <section class="bg-marieBlue min-h-screen pt-4 md:w-[1240px] mx-auto flex flex-col md:flex-row md:justify-around items-center justify-center">
   <div class="">

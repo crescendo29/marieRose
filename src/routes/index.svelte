@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Douce évasion - Soins Visage et Corps à Quimperlé</title>
-  <meta name="description" content="Votre Esthéticienne Marie-Rose, véritable experte de la beauté en Institut de Beauté, met à votre disposition des méthodes de soin exclusives pour embellir votre visage et votre corps...." />
+  <meta name="description" content="Institut de Beauté à Quimperlé. Votre Esthéticienne Marie-Rose, véritable experte de la beauté en Institut de Beauté, met à votre disposition des méthodes de soin exclusives pour embellir votre visage et votre corps...." />
   <meta name="keywords" content="quimperlé, institut, institut de beauté, soins en institut, esthéticienne, beauté, peau, visage, corps, soins, anti-âge, anti-rides, hydratation, jeunesse, éclat, minceur">
   <meta name=”robots” content="index, follow">
 </svelte:head>

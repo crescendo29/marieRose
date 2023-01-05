@@ -5,7 +5,7 @@
   <meta name=”robots” content="index, follow">
 </svelte:head>
 
-<section class="h-screen flex items-center justify-center mb-12">
+<div class="h-screen flex items-center justify-center mb-12">
   <div class="card lg:card-side bg-gold-texture shadow-xl shadow-gray/80">
     <!-- <figure class="md:p-2"><img  src="https://placeimg.com/400/400/arch" class="rounded-lg" alt="Album"></figure>
      -->
@@ -115,5 +115,5 @@
     
   </div>
   
-</section>
+</div>
 

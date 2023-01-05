@@ -5,7 +5,7 @@
   <meta name=”robots” content="index, follow">
 </svelte:head>
 
-<section class="bg-marieBlue min-h-screen pt-4 md:w-[1240px] mx-auto flex flex-col md:flex-row md:justify-around items-center justify-center">
+<div class="bg-marieBlue min-h-screen pt-4 md:w-[1240px] mx-auto flex flex-col md:flex-row md:justify-around items-center justify-center">
   <div class="">
         <!-- The button to open modal epiloderm -->
     <label for="my-modal-1" class="btn modal-button bg-transparent border-none hover:bg-transparent"><img src="/images/epiloderm.webp" class="w-[250px]" alt="epiloderm"></label>
@@ -62,4 +62,4 @@
 
 </div>
 
-</section>
+</div>

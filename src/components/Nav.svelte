@@ -14,7 +14,7 @@
     </a>
     <div class="pl-4">
       <h1 class="normal-case font-bold text-xs text-marieBlue">DOUCE &Eacute;VASION</h1>
-    <h3 class="text-marieBlueLight text-sm">INSTITUT BEAUT&Eacute; ET BIEN &Ecirc;TRE</h3>
+    <h2 class="text-marieBlueLight text-sm">INSTITUT BEAUT&Eacute; ET BIEN &Ecirc;TRE</h2>
     </div>
     
   </div>

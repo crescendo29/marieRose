@@ -148,7 +148,7 @@
                       </tr>
                       <tr class="bg-marieBlue">
                         <td class="p-2">Jambes entières + Maillot + Aisselles</td>
-                        <td>26€</td>
+                        <td>54€</td>
                       </tr>
                       <tr class="bg-white">
                         <td class="px-12 text-marieBlue font-bold">Suppléments Forfaits</td>
